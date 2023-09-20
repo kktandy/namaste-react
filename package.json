@@ -1,0 +1,24 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Kuldeep",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/kktandy/namaste-react.git)"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "kuldeep"
+  ],
+  "author": "Kuldeep Tandewal",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3" 
+  }
+}

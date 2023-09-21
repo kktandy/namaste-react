@@ -15,3 +15,6 @@
 - Differential Bundling - support older browsers
 - Diagnostics
 - Error handling
+- HTTPs
+- Tree Shaking - remove unused code
+- Different dev and production bundle
